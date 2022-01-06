@@ -97,7 +97,7 @@ if _name_ == "_main_":
     button7.grid(row=4, column=0)
 
     button8 = Button(gui, text=' 8 ', fg='black', bg='red',
-                     command=lambda: press(😎, height = 1, width = 7)
+                     command=lambda: press(8, height = 1, width = 7)
     button8.grid(row=4, column=1)
 
     button9 = Button(gui, text=' 9 ', fg='black', bg='red',
